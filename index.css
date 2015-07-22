@@ -1,0 +1,20 @@
+div, html, body, h1, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: #eee;
+    overflow: hidden;
+    text-align: center;
+    color: #333;
+}
+
+.hidden {
+    display: none;
+}

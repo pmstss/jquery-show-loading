@@ -1,0 +1,33 @@
+{
+  "name": "jquery-show-loading",
+  "version": "0.1.0",
+  "description": "Simple jQuery loading plugin: loading indicator, mask overlay, trivial show/hide api. AMD compliant.",
+  "main": "src/jquery.showLoading.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmstss/jquery-show-loading.git"
+  },
+  "keywords": [
+    "jquery",
+    "loading",
+    "mask",
+    "indicator"
+  ],
+  "author": "Slava Tyshkavets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmstss/jquery-show-loading/issues"
+  },
+  "homepage": "https://github.com/pmstss/jquery-show-loading#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-jscs": "^1.8.0",
+    "jshint-stylish": "^2.0.1",
+    "load-grunt-tasks": "^3.2.0",
+    "time-grunt": "^1.2.1"
+  }
+}
