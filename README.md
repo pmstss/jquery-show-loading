@@ -1,6 +1,7 @@
 #jquery-show-loading
 
-Tiny loading jQuery plugin: loading indicator, mask overlay, show/hide api.
+Minimalistic jQuery loading indicator plugin: animated indicator, mask overlay, trivial show/hide api.
+
 AMD and CommonJS compliant.
 
 ## API

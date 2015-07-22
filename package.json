@@ -1,7 +1,7 @@
 {
   "name": "jquery-show-loading",
   "version": "0.1.0",
-  "description": "Simple jQuery loading plugin: loading indicator, mask overlay, trivial show/hide api. AMD compliant.",
+  "description": "Minimalistic jQuery loading indicator plugin",
   "main": "src/jquery.showLoading.js",
   "repository": {
     "type": "git",

@@ -1,0 +1,30 @@
+{
+  "name": "jquery-show-loading",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pmstss/jquery-show-loading",
+  "authors": [
+    "Viachaslau Tyshkavets <pmstss@gmail.com>"
+  ],
+  "description": "Minimalistic jQuery loading indicator plugin",
+  "main": "dist/jquery.showLoading.min.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "loading",
+    "indicator",
+    "mask",
+    "overlay"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*.iml",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
